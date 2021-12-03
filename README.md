@@ -1,0 +1,1 @@
+# Pour utiliser le tkinter vous aurez besoin des sprites + des sons, qui sont téléchargeable avec le lien suivant : https://drive.google.com/drive/folders/1sF7WsFwNVPG1ArVUcwy7Zyq_cUveaDH3?usp=sharing
